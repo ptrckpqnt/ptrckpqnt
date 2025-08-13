@@ -35,7 +35,7 @@ This space is a work in progress — thanks for visiting!
 ###
 
 <div align="center">
-  <img height="400" src="https://i.postimg.cc/gjQCd9Cm/screens.jpg"  />
+  <img height="360" src="https://i.postimg.cc/gjQCd9Cm/screens.jpg"  />
 </div>
 
 ###
@@ -85,8 +85,8 @@ This space is a work in progress — thanks for visiting!
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ptrckpqnt&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="200" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=ptrckpqnt&theme=dark&hide_border=false" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ptrckpqnt&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="200" />
   <img src="https://github-contributor-stats.vercel.app/api?username=ptrckpqnt&limit=5&theme=dark&combine_all_yearly_contributions=true" height="200" />
 
 </div>
