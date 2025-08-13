@@ -32,7 +32,7 @@ This space is a work in progress — thanks for visiting!
 ###
 
 <div align="center">
-  <img height="260" src="https://i.postimg.cc/gjQCd9Cm/screens.jpg"  />
+  <img height="400" src="https://i.postimg.cc/gjQCd9Cm/screens.jpg"  />
 </div>
 
 ###
@@ -42,20 +42,12 @@ This space is a work in progress — thanks for visiting!
 ###
 
 <div align="center">
-  <img height="650" src="https://i.postimg.cc/FsPMhSQD/image.png"  />
+  <img height="1000" src="https://i.postimg.cc/FsPMhSQD/image.png"  />
 </div>
 
 ###
 
 <p align="left">In our Human-Computer Interaction project, we redesigned a chosen website to make it easier and more enjoyable to use. We studied its current layout, found areas that could be improved, and applied design principles to make navigation smoother and the interface more appealing.</p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ptrckpqnt/ptrckpqnt/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ptrckpqnt/ptrckpqnt/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ptrckpqnt/ptrckpqnt/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
@@ -82,10 +74,6 @@ This space is a work in progress — thanks for visiting!
 ###
 
 <p align="left">While Figma is my primary design tool, I also have knowlegde with other technologies and languages such as HTML and CSS, which helps me better visualize designs and integrate smoothly with developers during implementation.</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/ptrckpqnt/ptrckpqnt/output/snake.svg" alt="Snake animation" />
 
 ###
 
