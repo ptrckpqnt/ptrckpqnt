@@ -1,9 +1,8 @@
 ![MasterHead](https://i.postimg.cc/prnSsh3B/uiuxbanner.gif)
 <h1 align="center">Hi 👋, I'm   Patrick Pioquinto</h1>
+
 <h3 align="center">An aspiring UI/UX Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZhdnFoNmlob3Awd2UxOG5pMW4xaW9nNTBjZmN5NzFtMmx1ZmxieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left"> <a href="https://www.instagram.com/_ptrckpqnt/" target="blank"><img src="https://img.shields.io/twitter/follow/_ptrckpqnt?logo=twitter&style=for-the-badge" alt="patrickpioquinto"  </p>
 
 - 🔭 I’m currently a **BSIS Student**
 
@@ -14,6 +13,10 @@
 I'm an aspiring UI/UX designer and a student currently building this GitHub profile to document my learning journey and progress. Here, you'll find my projects, practice works, and case studies as I continue to grow and improve in the field of design.
 
 This space is a work in progress — thanks for visiting!
+<p align="left">
+<a href="https://fb.com/patrickpioquinto23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="patrickpioquinto23" height="30" width="40" /></a>
+<a href="https://instagram.com/_ptrckpqnt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ptrckpqnt" height="30" width="40" /></a>
+</p>
 
 <br clear="both">
 
@@ -77,7 +80,18 @@ This space is a work in progress — thanks for visiting!
 
 ###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">My Stats</h2>
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=ptrckpqnt&theme=radical&no-frame=false" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ptrckpqnt&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="300" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ptrckpqnt&theme=dark&hide_border=false" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptrckpqnt&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="300" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=ptrckpqnt&limit=5&theme=dark&combine_all_yearly_contributions=true" height="300" />
+
+</div>
+
 
 
 
