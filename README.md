@@ -1,4 +1,4 @@
-![MasterHead](https://images.ctfassets.net/ry6adbgbrq11/6ZH9fXqM3BpvACPxKrgkZ0/a33cc51b5fed93a7b115cd02a37c3732/gif_1_03_x3_grey.gif)
+![MasterHead](https://i.postimg.cc/prnSsh3B/uiuxbanner.gif)
 <h1 align="center">Hi 👋, I'm   Patrick Pioquinto</h1>
 <h3 align="center">An aspiring UI/UX Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZhdnFoNmlob3Awd2UxOG5pMW4xaW9nNTBjZmN5NzFtMmx1ZmxieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -15,26 +15,79 @@ I'm an aspiring UI/UX designer and a student currently building this GitHub prof
 
 This space is a work in progress — thanks for visiting!
 
-# Language Used:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<br clear="both">
 
-## Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/patrickpioquinto23) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ptrckpqnt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patrickpioquinto2325@gmail.com) 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=patrickpioquinto&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=patrickpioquinto&theme=one_dark_pro&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickpioquinto&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h2 align="center">Figma Mastery</h2>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=patrickpioquinto&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
+###
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="100" alt="figma logo"  />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=patrickpioquinto&limit=5&theme=dark&combine_all_yearly_contributions=true)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=patrickpioquinto&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left">I recently discovered Figma and quickly developed a strong interest in it. With my natural eye for design and art, I was able to adapt and perform well, making the creative process feel effortless. Here are some of my recent works:</p>
+
+###
+
+<div align="center">
+  <img height="260" src="https://i.postimg.cc/gjQCd9Cm/screens.jpg"  />
+</div>
+
+###
+
+<p align="left">I recently designed a mobile app for booking rides, focusing on a smooth and user-friendly experience. The design features a clean interface, simple booking steps, and real-time ride tracking to make traveling effortless. The image above are some of the screens from the project.</p>
+
+###
+
+<div align="center">
+  <img height="650" src="https://i.postimg.cc/FsPMhSQD/image.png"  />
+</div>
+
+###
+
+<p align="left">In our Human-Computer Interaction project, we redesigned a chosen website to make it easier and more enjoyable to use. We studied its current layout, found areas that could be improved, and applied design principles to make navigation smoother and the interface more appealing.</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ptrckpqnt/ptrckpqnt/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ptrckpqnt/ptrckpqnt/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ptrckpqnt/ptrckpqnt/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<h2 align="center">Techs I Know</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="laravel logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+</div>
+
+###
+
+<p align="left">While Figma is my primary design tool, I also have knowlegde with other technologies and languages such as HTML and CSS, which helps me better visualize designs and integrate smoothly with developers during implementation.</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/ptrckpqnt/ptrckpqnt/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
