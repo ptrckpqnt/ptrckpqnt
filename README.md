@@ -52,6 +52,7 @@ This space is a work in progress — thanks for visiting!
 
 <p align="left">In our Human-Computer Interaction project, we redesigned a chosen website to make it easier and more enjoyable to use. We studied its current layout, found areas that could be improved, and applied design principles to make navigation smoother and the interface more appealing.</p>
 
+
 ###
 
 <h2 align="center">Techs I Know</h2>
@@ -84,10 +85,8 @@ This space is a work in progress — thanks for visiting!
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=ptrckpqnt&theme=radical&no-frame=false" height="300" />
   <img src="https://github-readme-stats.vercel.app/api?username=ptrckpqnt&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="200" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=ptrckpqnt&theme=dark&hide_border=false" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptrckpqnt&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="200" />
   <img src="https://github-contributor-stats.vercel.app/api?username=ptrckpqnt&limit=5&theme=dark&combine_all_yearly_contributions=true" height="200" />
 
 </div>
