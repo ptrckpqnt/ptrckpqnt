@@ -1,4 +1,4 @@
-![MasterHead](https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gif)
+![MasterHead](https://images.ctfassets.net/ry6adbgbrq11/6ZH9fXqM3BpvACPxKrgkZ0/a33cc51b5fed93a7b115cd02a37c3732/gif_1_03_x3_grey.gif)
 <h1 align="center">Hi 👋, I'm   Patrick Pioquinto</h1>
 <h3 align="center">An aspiring UI/UX Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZhdnFoNmlob3Awd2UxOG5pMW4xaW9nNTBjZmN5NzFtMmx1ZmxieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
