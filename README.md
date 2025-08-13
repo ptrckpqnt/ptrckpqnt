@@ -40,7 +40,7 @@ This space is a work in progress — thanks for visiting!
 
 ###
 
-<p align="left">I recently designed a mobile app for booking rides, focusing on a smooth and user-friendly experience. The design features a clean interface, simple booking steps, and real-time ride tracking to make traveling effortless. The image above are some of the screens from the project.</p><br>&nbsp;<br><br>&nbsp;<br>
+<p align="left">I recently designed a mobile app for booking rides, focusing on a smooth and user-friendly experience. The design features a clean interface, simple booking steps, and real-time ride tracking to make traveling effortless. The image above are some of the screens from the project.</p><br>&nbsp;<br>
 
 ###
 
@@ -50,7 +50,7 @@ This space is a work in progress — thanks for visiting!
 
 ###
 
-<p align="left">In our Human-Computer Interaction project, we redesigned a chosen website to make it easier and more enjoyable to use. We studied its current layout, found areas that could be improved, and applied design principles to make navigation smoother and the interface more appealing.</p><br>&nbsp;<br><br>&nbsp;<br>
+<p align="left">In our Human-Computer Interaction project, we redesigned a chosen website to make it easier and more enjoyable to use. We studied its current layout, found areas that could be improved, and applied design principles to make navigation smoother and the interface more appealing.</p><br>&nbsp;<br>
 
 
 ###
@@ -77,7 +77,7 @@ This space is a work in progress — thanks for visiting!
 
 ###
 
-<p align="left">While Figma is my primary design tool, I also have knowlegde with other technologies and languages such as HTML and CSS, which helps me better visualize designs and integrate smoothly with developers during implementation.</p><br>&nbsp;<br><br>&nbsp;<br>
+<p align="left">While Figma is my primary design tool, I also have knowlegde with other technologies and languages such as HTML and CSS, which helps me better visualize designs and integrate smoothly with developers during implementation.</p><br>&nbsp;<br>
 
 ###
 
